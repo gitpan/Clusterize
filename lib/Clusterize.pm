@@ -2,7 +2,7 @@ package Clusterize;
 use warnings;
 use strict;
 use Clusterize::Pattern;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub pair {
 	my ($self, $key, $val) = @_;
@@ -72,7 +72,7 @@ Clusterize - clustering text documents.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 

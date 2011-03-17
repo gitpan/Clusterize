@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Clusterize
-version:            0.01
+version:            0.02
 abstract:           clustering text documents.
 author:
     - Slava Moiseev <slava.moiseev@yahoo.com>
